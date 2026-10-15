@@ -1,5 +1,3 @@
-Github homepage for LFC Foundry!
-
 Welcome to the **LFC Foundry**. We build single-file, highly-optimized web applications and minimalist games engineered to run entirely client-side. 
 
 Our philosophy is built on three core pillars:
