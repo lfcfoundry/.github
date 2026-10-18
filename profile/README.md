@@ -1,6 +1,8 @@
-Welcome to the **LFC Foundry**. We build single-file, highly-optimized web applications and minimalist games engineered to run entirely client-side. 
+**LFC Foundry** is a home for open source web apps, games and the small JavaScript pieces they are built from. Each app or game is a single `.html` file that runs entirely in the browser: you download the file once and open it, with no server, account or install. The pieces (modules and tools) are one dependency-free file each that any single-file page can copy in, and every one is built and tested by a person pairing with AI.
 
-Our philosophy is built on three core pillars:
+## Why it exists
+
+Software for the web has drifted toward accounts, tracking, ads and a pile of dependencies that stop working when a server goes away. We wanted a place where a useful tool or a good game is one file you can keep forever, and where the small parts behind it are shared in the open so others can reuse and adapt them. Three pillars follow from that:
 * 📦 **Local-First Client (LFC):** Every utility, tool, or game is contained entirely within a single `.html` file or executable. 
 * 🔌 **Zero Network Footprint:** No accounts, no data tracking, and zero ads. Download a file once, and it will run 100% offline in any modern browser forever.
 * 🤖 **Human-AI Collaboration:** We leverage advanced AI pairing workflows to rapidly prototype, stress-test, and smelt raw logic into hardened, modular vanilla CSS and JavaScript.
@@ -11,7 +13,7 @@ Our philosophy is built on three core pillars:
 
 **[JS-modules](https://github.com/lfcfoundry/JS-modules)** are small, dependency-free pieces that any single-file page can copy in, with live demos at https://lfcfoundry.github.io/JS-modules/. Every one has a README, a changelog and a size; the [full tables](https://github.com/lfcfoundry/JS-modules#pick-a-piece) list the file size of each.
 
-**27 modules for games and apps**
+**28 modules for games and apps**
 
 * Saving and data safety: [save-kit](https://github.com/lfcfoundry/JS-modules/blob/main/modules/save-kit/README.md)
 * Device and browser adaptation: [env-probes](https://github.com/lfcfoundry/JS-modules/blob/main/modules/env-probes/README.md), [fx-governor](https://github.com/lfcfoundry/JS-modules/blob/main/modules/fx-governor/README.md), [frame-kit](https://github.com/lfcfoundry/JS-modules/blob/main/modules/frame-kit/README.md), [slow-note](https://github.com/lfcfoundry/JS-modules/blob/main/modules/slow-note/README.md)
@@ -20,7 +22,7 @@ Our philosophy is built on three core pillars:
 * Looks and effects: [stage-curtains](https://github.com/lfcfoundry/JS-modules/blob/main/modules/stage-curtains/README.md), [fly-to-mini](https://github.com/lfcfoundry/JS-modules/blob/main/modules/fly-to-mini/README.md), [sticker-text](https://github.com/lfcfoundry/JS-modules/blob/main/modules/sticker-text/README.md), [sprite-baker](https://github.com/lfcfoundry/JS-modules/blob/main/modules/sprite-baker/README.md), [cartoon-3d-kit](https://github.com/lfcfoundry/JS-modules/blob/main/modules/cartoon-3d-kit/README.md)
 * Game math: [idle-core](https://github.com/lfcfoundry/JS-modules/blob/main/modules/idle-core/README.md)
 * Size and packaging: [lzma-decode](https://github.com/lfcfoundry/JS-modules/blob/main/modules/lzma-decode/README.md), [ppmd-decode](https://github.com/lfcfoundry/JS-modules/blob/main/modules/ppmd-decode/README.md)
-* Files, charts and simulation: [gif-writer](https://github.com/lfcfoundry/JS-modules/blob/main/modules/gif-writer/README.md), [zip-open](https://github.com/lfcfoundry/JS-modules/blob/main/modules/zip-open/README.md), [memory-compression](https://github.com/lfcfoundry/JS-modules/blob/main/modules/memory-compression/README.md), [pcodec-js](https://github.com/lfcfoundry/JS-modules/blob/main/modules/pcodec-js/README.md), [netflow-sankey](https://github.com/lfcfoundry/JS-modules/blob/main/modules/netflow-sankey/README.md), [netflow-layers](https://github.com/lfcfoundry/JS-modules/blob/main/modules/netflow-layers/README.md), [walker-sim](https://github.com/lfcfoundry/JS-modules/blob/main/modules/walker-sim/README.md)
+* Files, charts and simulation: [gif-writer](https://github.com/lfcfoundry/JS-modules/blob/main/modules/gif-writer/README.md), [zip-open](https://github.com/lfcfoundry/JS-modules/blob/main/modules/zip-open/README.md), [memory-compression](https://github.com/lfcfoundry/JS-modules/blob/main/modules/memory-compression/README.md), [pcodec-js](https://github.com/lfcfoundry/JS-modules/blob/main/modules/pcodec-js/README.md), [netflow-sankey](https://github.com/lfcfoundry/JS-modules/blob/main/modules/netflow-sankey/README.md), [netflow-engine](https://github.com/lfcfoundry/JS-modules/blob/main/modules/netflow-engine/README.md) (placeholder for now), [netflow-layers](https://github.com/lfcfoundry/JS-modules/blob/main/modules/netflow-layers/README.md), [walker-sim](https://github.com/lfcfoundry/JS-modules/blob/main/modules/walker-sim/README.md)
 
 **7 Story Editor packages** (story data, checking, drawing, playing)
 
