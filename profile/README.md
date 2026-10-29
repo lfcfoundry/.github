@@ -1,11 +1,24 @@
-**LFC Foundry** is a home for open source web apps, games and the small JavaScript pieces they are built from. Each app or game is a single `.html` file that runs entirely in the browser: you download the file once and open it, with no server, account or install. The pieces (modules and tools) are one dependency-free file each that any single-file page can copy in, and every one is built and tested by a person pairing with AI.
+<div align="center">
+
+# LFC Foundry
+
+**Open source web apps, games and the small JavaScript pieces they are built from. One file each.**
+
+[**Play Apple Press**](https://lfcfoundry.github.io/apple-press/) · [**Play Fancy, the Banana**](https://lfcfoundry.github.io/fancy-banana/) · [**Open the Story Editor**](https://lfcfoundry.github.io/story-editor/) · [**Browse JS-modules**](https://lfcfoundry.github.io/JS-modules/)
+
+</div>
+
+## What it is and how it works
+
+LFC Foundry is a home for open source web apps, games and the small JavaScript pieces they are built from. Each app or game is a single `.html` file that runs entirely in the browser: download it once and open it, with no server, account or install. The pieces are one dependency-free file each that any single-file page can copy in. Every one is built and tested by a person pairing with AI.
 
 ## Why it exists
 
-Software for the web has drifted toward accounts, tracking, ads and a pile of dependencies that stop working when a server goes away. We wanted a place where a useful tool or a good game is one file you can keep forever, and where the small parts behind it are shared in the open so others can reuse and adapt them. Three pillars follow from that:
-* 📦 **Local-First Client (LFC):** Every utility, tool, or game is contained entirely within a single `.html` file or executable. 
-* 🔌 **Zero Network Footprint:** No accounts, no data tracking, and zero ads. Download a file once, and it will run 100% offline in any modern browser forever.
-* 🤖 **Human-AI Collaboration:** We leverage advanced AI pairing workflows to rapidly prototype, stress-test, and smelt raw logic into hardened, modular vanilla CSS and JavaScript.
+Software for the web has drifted toward accounts, tracking, ads and dependencies that stop working when a server goes away. We wanted a place where a useful tool or a good game is one file you can keep forever, and where the parts behind it are shared in the open.
+
+| Local-first client | Zero network footprint | Human and AI pairing |
+|---|---|---|
+| Every tool or game is one `.html` file. | No accounts, no tracking, no ads. Runs offline. | Prototyped, stress-tested and hardened with AI. |
 
 ## 🧰 What's inside
 
@@ -13,18 +26,18 @@ Software for the web has drifted toward accounts, tracking, ads and a pile of de
 
 **[JS-modules](https://github.com/lfcfoundry/JS-modules)** are small, dependency-free pieces that any single-file page can copy in, with live demos at https://lfcfoundry.github.io/JS-modules/. Every one has a README, a changelog and a size; the [full tables](https://github.com/lfcfoundry/JS-modules#pick-a-piece) list the file size of each.
 
-**Modules & Tools (38)**
+**Modules & Tools (49)**
 
-* Device and browser adaptation: [env-probes](https://github.com/lfcfoundry/JS-modules/blob/main/modules/env-probes/README.md), [frame-kit](https://github.com/lfcfoundry/JS-modules/blob/main/modules/frame-kit/README.md), [fx-governor](https://github.com/lfcfoundry/JS-modules/blob/main/modules/fx-governor/README.md), [slow-note](https://github.com/lfcfoundry/JS-modules/blob/main/modules/slow-note/README.md)
+* Device and browser adaptation: [env-probes](https://github.com/lfcfoundry/JS-modules/blob/main/modules/env-probes/README.md), [field-report](https://github.com/lfcfoundry/JS-modules/blob/main/modules/field-report/README.md), [frame-kit](https://github.com/lfcfoundry/JS-modules/blob/main/modules/frame-kit/README.md), [fx-governor](https://github.com/lfcfoundry/JS-modules/blob/main/modules/fx-governor/README.md), [image-decode](https://github.com/lfcfoundry/JS-modules/blob/main/modules/image-decode/README.md), [slow-note](https://github.com/lfcfoundry/JS-modules/blob/main/modules/slow-note/README.md)
 * Saving and data safety: [save-kit](https://github.com/lfcfoundry/JS-modules/blob/main/modules/save-kit/README.md), [tab-guard](https://github.com/lfcfoundry/JS-modules/blob/main/modules/tab-guard/README.md)
-* Games - Looks and effects: [cartoon-3d-kit](https://github.com/lfcfoundry/JS-modules/blob/main/modules/cartoon-3d-kit/README.md), [fly-to-mini](https://github.com/lfcfoundry/JS-modules/blob/main/modules/fly-to-mini/README.md), [sprite-baker](https://github.com/lfcfoundry/JS-modules/blob/main/modules/sprite-baker/README.md), [stage-curtains](https://github.com/lfcfoundry/JS-modules/blob/main/modules/stage-curtains/README.md), [sticker-text](https://github.com/lfcfoundry/JS-modules/blob/main/modules/sticker-text/README.md)
+* Games - Looks and effects: [cartoon-3d-kit](https://github.com/lfcfoundry/JS-modules/blob/main/modules/cartoon-3d-kit/README.md), [fly-to-mini](https://github.com/lfcfoundry/JS-modules/blob/main/modules/fly-to-mini/README.md), [gpu-blur](https://github.com/lfcfoundry/JS-modules/blob/main/modules/gpu-blur/README.md), [sprite-baker](https://github.com/lfcfoundry/JS-modules/blob/main/modules/sprite-baker/README.md), [stage-curtains](https://github.com/lfcfoundry/JS-modules/blob/main/modules/stage-curtains/README.md), [sticker-text](https://github.com/lfcfoundry/JS-modules/blob/main/modules/sticker-text/README.md)
 * Games - Controls: [back-close](https://github.com/lfcfoundry/JS-modules/blob/main/modules/back-close/README.md), [hold-press](https://github.com/lfcfoundry/JS-modules/blob/main/modules/hold-press/README.md), [pad-nav](https://github.com/lfcfoundry/JS-modules/blob/main/modules/pad-nav/README.md), [wake-keeper](https://github.com/lfcfoundry/JS-modules/blob/main/modules/wake-keeper/README.md)
 * Games - Assist: [grown-ups-door](https://github.com/lfcfoundry/JS-modules/blob/main/modules/grown-ups-door/README.md), [spotlight-tour](https://github.com/lfcfoundry/JS-modules/blob/main/modules/spotlight-tour/README.md)
-* Games - Math: [idle-core](https://github.com/lfcfoundry/JS-modules/blob/main/modules/idle-core/README.md)
-* Games - Testing: [canvas-probe](https://github.com/lfcfoundry/JS-modules/blob/main/tools/canvas-probe/README.md), [firefox-stand-in](https://github.com/lfcfoundry/JS-modules/blob/main/tools/firefox-stand-in/README.md), [fuzz-kit](https://github.com/lfcfoundry/JS-modules/blob/main/tools/fuzz-kit/README.md), [speed-lab](https://github.com/lfcfoundry/JS-modules/blob/main/tools/speed-lab/README.md), [storage-probe](https://github.com/lfcfoundry/JS-modules/blob/main/tools/storage-probe/README.md), [test-isolation](https://github.com/lfcfoundry/JS-modules/blob/main/tools/test-isolation/README.md), [webkit-driver](https://github.com/lfcfoundry/JS-modules/blob/main/tools/webkit-driver/README.md)
-* App - Efficiency: [memory-compression](https://github.com/lfcfoundry/JS-modules/blob/main/modules/memory-compression/README.md), [single-file-tools](https://github.com/lfcfoundry/JS-modules/blob/main/tools/single-file-tools/README.md)
+* Games - Math: [graph-walk](https://github.com/lfcfoundry/JS-modules/blob/main/modules/graph-walk/README.md), [idle-core](https://github.com/lfcfoundry/JS-modules/blob/main/modules/idle-core/README.md)
+* Games - Testing: [canvas-probe](https://github.com/lfcfoundry/JS-modules/blob/main/tools/canvas-probe/README.md), [firefox-stand-in](https://github.com/lfcfoundry/JS-modules/blob/main/tools/firefox-stand-in/README.md), [fuzz-kit](https://github.com/lfcfoundry/JS-modules/blob/main/tools/fuzz-kit/README.md), [speed-guard](https://github.com/lfcfoundry/JS-modules/blob/main/tools/speed-guard/README.md), [speed-lab](https://github.com/lfcfoundry/JS-modules/blob/main/tools/speed-lab/README.md), [storage-probe](https://github.com/lfcfoundry/JS-modules/blob/main/tools/storage-probe/README.md), [test-isolation](https://github.com/lfcfoundry/JS-modules/blob/main/tools/test-isolation/README.md), [test-runner](https://github.com/lfcfoundry/JS-modules/blob/main/tools/test-runner/README.md), [webkit-driver](https://github.com/lfcfoundry/JS-modules/blob/main/tools/webkit-driver/README.md)
+* App - Efficiency: [elias-fano](https://github.com/lfcfoundry/JS-modules/blob/main/modules/elias-fano/README.md), [lfc-pack](https://github.com/lfcfoundry/JS-modules/blob/main/modules/lfc-pack/README.md), [memory-compression](https://github.com/lfcfoundry/JS-modules/blob/main/modules/memory-compression/README.md), [single-file-tools](https://github.com/lfcfoundry/JS-modules/blob/main/tools/single-file-tools/README.md), [text-columns](https://github.com/lfcfoundry/JS-modules/blob/main/modules/text-columns/README.md)
 * Model simulation: [walker-sim](https://github.com/lfcfoundry/JS-modules/blob/main/modules/walker-sim/README.md)
-* Visualization: [gif-writer](https://github.com/lfcfoundry/JS-modules/blob/main/modules/gif-writer/README.md), [netflow-engine](https://github.com/lfcfoundry/JS-modules/blob/main/modules/netflow-engine/README.md), [netflow-layers](https://github.com/lfcfoundry/JS-modules/blob/main/modules/netflow-layers/README.md), [netflow-sankey](https://github.com/lfcfoundry/JS-modules/blob/main/modules/netflow-sankey/README.md)
+* Visualization: [clip-writer](https://github.com/lfcfoundry/JS-modules/blob/main/modules/clip-writer/README.md), [gif-writer](https://github.com/lfcfoundry/JS-modules/blob/main/modules/gif-writer/README.md), [netflow-engine](https://github.com/lfcfoundry/JS-modules/blob/main/modules/netflow-engine/README.md), [netflow-layers](https://github.com/lfcfoundry/JS-modules/blob/main/modules/netflow-layers/README.md), [netflow-sankey](https://github.com/lfcfoundry/JS-modules/blob/main/modules/netflow-sankey/README.md), [netflow-scene](https://github.com/lfcfoundry/JS-modules/blob/main/modules/netflow-scene/README.md)
 * Size and packaging: [lzma-decode](https://github.com/lfcfoundry/JS-modules/blob/main/modules/lzma-decode/README.md), [lzma-pack](https://github.com/lfcfoundry/JS-modules/blob/main/tools/lzma-pack/README.md), [pcodec-js](https://github.com/lfcfoundry/JS-modules/blob/main/modules/pcodec-js/README.md), [ppmd-decode](https://github.com/lfcfoundry/JS-modules/blob/main/modules/ppmd-decode/README.md), [ppmd-pack](https://github.com/lfcfoundry/JS-modules/blob/main/tools/ppmd-pack/README.md), [zip-open](https://github.com/lfcfoundry/JS-modules/blob/main/modules/zip-open/README.md)
 
 **Story Editor packages (10)**
