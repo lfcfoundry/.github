@@ -4,7 +4,7 @@
 
 **Open source web apps, games and the small JavaScript pieces they are built from. One file each.**
 
-[**Play Apple Press**](https://lfcfoundry.github.io/apple-press/) · [**Play Fancy, the Banana**](https://lfcfoundry.github.io/fancy-banana/) · [**Open the Story Editor**](https://lfcfoundry.github.io/story-editor/) · [**Browse JS-modules**](https://lfcfoundry.github.io/JS-modules/)
+[**Play Apple Press**](https://lfcfoundry.github.io/apple-press/play/) · [**Play Fancy, the Banana**](https://lfcfoundry.github.io/fancy-banana/play/) · [**Play Pineapple Defense**](https://lfcfoundry.github.io/pineapple-defense/play/) · [**Open the Story Editor**](https://lfcfoundry.github.io/story-editor/play/) · [**Browse JS-modules**](https://lfcfoundry.github.io/JS-modules/)
 
 ![4 apps and games](https://img.shields.io/badge/apps%20and%20games-4-1f7ae0) ![49 modules and tools](https://img.shields.io/badge/modules%20and%20tools-49-1f7ae0) ![0 accounts](https://img.shields.io/badge/accounts-0-1e9e6a) ![MIT](https://img.shields.io/badge/license-MIT-blue)
 
@@ -34,7 +34,7 @@ Size of each app's one file on the main branch: Pineapple Defense 2.54 MB, Apple
 
 ## 🧰 What's inside
 
-**Games and apps** (each one is a single `.html` file): [Apple Press](https://github.com/lfcfoundry/apple-press) ([play](https://lfcfoundry.github.io/apple-press/)), [Fancy, the Banana](https://github.com/lfcfoundry/fancy-banana) ([play](https://lfcfoundry.github.io/fancy-banana/)), [Pineapple Defense](https://github.com/lfcfoundry/pineapple-defense) and the [Story Editor](https://github.com/lfcfoundry/story-editor).
+**Games and apps** (each one is a single `.html` file): [Apple Press](https://github.com/lfcfoundry/apple-press) ([play](https://lfcfoundry.github.io/apple-press/play/)), [Fancy, the Banana](https://github.com/lfcfoundry/fancy-banana) ([play](https://lfcfoundry.github.io/fancy-banana/play/)), [Pineapple Defense](https://github.com/lfcfoundry/pineapple-defense) ([play](https://lfcfoundry.github.io/pineapple-defense/play/)) and the [Story Editor](https://github.com/lfcfoundry/story-editor) ([open](https://lfcfoundry.github.io/story-editor/play/)).
 
 **[JS-modules](https://github.com/lfcfoundry/JS-modules)** are small, dependency-free pieces that any single-file page can copy in, with live demos at https://lfcfoundry.github.io/JS-modules/. Every one has a README, a changelog and a size; the [full tables](https://github.com/lfcfoundry/JS-modules#pick-a-piece) list the file size of each.
 
