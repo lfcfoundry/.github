@@ -6,6 +6,8 @@
 
 [**Play Apple Press**](https://lfcfoundry.github.io/apple-press/) · [**Play Fancy, the Banana**](https://lfcfoundry.github.io/fancy-banana/) · [**Open the Story Editor**](https://lfcfoundry.github.io/story-editor/) · [**Browse JS-modules**](https://lfcfoundry.github.io/JS-modules/)
 
+![4 apps and games](https://img.shields.io/badge/apps%20and%20games-4-1f7ae0) ![49 modules and tools](https://img.shields.io/badge/modules%20and%20tools-49-1f7ae0) ![0 accounts](https://img.shields.io/badge/accounts-0-1e9e6a) ![MIT](https://img.shields.io/badge/license-MIT-blue)
+
 </div>
 
 ## What it is and how it works
@@ -16,9 +18,17 @@ LFC Foundry is a home for open source web apps, games and the small JavaScript p
 
 Software for the web has drifted toward accounts, tracking, ads and dependencies that stop working when a server goes away. We wanted a place where a useful tool or a good game is one file you can keep forever, and where the parts behind it are shared in the open.
 
-| Local-first client | Zero network footprint | Human and AI pairing |
-|---|---|---|
-| Every tool or game is one `.html` file. | No accounts, no tracking, no ads. Runs offline. | Prototyped, stress-tested and hardened with AI. |
+| Safe | Offline | Open | Tested in three browsers |
+|---|---|---|---|
+| No accounts, no tracking, no ads. Nothing is sent anywhere. | Download a file once and it runs without a network. | MIT licensed. Use, change and share everything. | Firefox, Chromium and WebKitGTK. |
+
+## By the numbers
+
+| Apps and games | Modules and tools | Story Editor packages | Accounts, trackers or ads |
+|---|---|---|---|
+| **4**, one file each | **49**, each with a README and a size | **10** | **0** |
+
+Approximate size of each app's one file: Pineapple Defense 2.53 MB, Apple Press 0.74 MB, Fancy, the Banana 0.50 MB, Story Editor 0.30 MB.
 
 ## 🧰 What's inside
 
