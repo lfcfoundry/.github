@@ -20,15 +20,18 @@ None of the apps or games need an install, administrative privileges or any spec
 
 Software for the web has drifted toward accounts, tracking, ads and dependencies that stop working when a server goes away. We wanted a place where a useful tool or a good game is one file you can keep forever, and where the parts behind it are shared in the open.
 
-| Easy | Safe | Offline | Open | Tested in three browsers |
-|---|---|---|---|---|
-| No install, no administrative privileges, no special knowledge. | No accounts, no tracking, no ads. Nothing is sent anywhere. | Download a file once and it runs without a network. | MIT licensed. Use, change and share everything. | Firefox, Chromium and WebKitGTK. |
+- **Easy:** No install, no administrative privileges, no special knowledge.
+- **Safe:** No accounts, no tracking, no ads. Nothing is sent anywhere.
+- **Offline:** Download a file once and it runs without a network.
+- **Open:** MIT licensed. Use, change and share everything.
+- **Tested in three browsers:** Firefox, Chromium and WebKitGTK.
 
 ## By the numbers
 
-| Apps and games | Modules and tools | Story Editor packages | Accounts, trackers or ads |
-|---|---|---|---|
-| **4**, one file each | **49**, each with a README and a size | **10** | **0** |
+- Apps and games: **4**, one file each
+- Modules and tools: **49**, each with a README and a size
+- Story Editor packages: **10**
+- Accounts, trackers or ads: **0**
 
 Size of each app's one file on the main branch: Pineapple Defense 2.54 MB, Apple Press 0.74 MB, Fancy, the Banana 0.50 MB, Story Editor 0.30 MB.
 
