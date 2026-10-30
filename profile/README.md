@@ -2,6 +2,8 @@
 
 # LFC Foundry
 
+<a href="https://github.com/lfcfoundry/JS-modules"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfcfoundry/.github/main/profile/images/hero-dark.svg"><img src="https://raw.githubusercontent.com/lfcfoundry/.github/main/profile/images/hero-light.svg" alt="LFC Foundry: open source web apps, games and the small JavaScript pieces they are built from. One file each. No accounts, no ads, no install, offline." width="720"></picture></a>
+
 **Open source web apps, games and the small JavaScript pieces they are built from. One file each.**
 
 [**Play Apple Press**](https://lfcfoundry.github.io/apple-press/play/) · [**Play Fancy, the Banana**](https://lfcfoundry.github.io/fancy-banana/play/) · [**Play Pineapple Defense**](https://lfcfoundry.github.io/pineapple-defense/play/) · [**Open the Story Editor**](https://lfcfoundry.github.io/story-editor/play/) · [**Browse JS-modules**](https://lfcfoundry.github.io/JS-modules/)
@@ -36,6 +38,11 @@ Software for the web has drifted toward accounts, tracking, ads and dependencies
 Size of each app's one file on the main branch: Pineapple Defense 2.54 MB, Apple Press 0.74 MB, Fancy, the Banana 0.50 MB, Story Editor 0.30 MB.
 
 ## 🧰 What's inside
+
+<p align="center"><a href="https://lfcfoundry.github.io/apple-press/play/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfcfoundry/.github/main/profile/images/apple-press-dark.svg"><img src="https://raw.githubusercontent.com/lfcfoundry/.github/main/profile/images/apple-press-light.svg" alt="Apple Press: a free clicker game for kids. Play" width="720"></picture></a></p>
+<p align="center"><a href="https://lfcfoundry.github.io/fancy-banana/play/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfcfoundry/.github/main/profile/images/fancy-banana-dark.svg"><img src="https://raw.githubusercontent.com/lfcfoundry/.github/main/profile/images/fancy-banana-light.svg" alt="Fancy, the Banana: a silent one-tap flying banana game. Play" width="720"></picture></a></p>
+<p align="center"><a href="https://lfcfoundry.github.io/pineapple-defense/play/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfcfoundry/.github/main/profile/images/pineapple-defense-dark.svg"><img src="https://raw.githubusercontent.com/lfcfoundry/.github/main/profile/images/pineapple-defense-light.svg" alt="Pineapple Defense: a glossy toy-box game, flick pineapples at penguins. Play" width="720"></picture></a></p>
+<p align="center"><a href="https://lfcfoundry.github.io/story-editor/play/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfcfoundry/.github/main/profile/images/story-editor-dark.svg"><img src="https://raw.githubusercontent.com/lfcfoundry/.github/main/profile/images/story-editor-light.svg" alt="Story Editor: an offline editor for choose-your-own-path stories. Open" width="720"></picture></a></p>
 
 **Games and apps** (each one is a single `.html` file): [Apple Press](https://github.com/lfcfoundry/apple-press) ([play](https://lfcfoundry.github.io/apple-press/play/)), [Fancy, the Banana](https://github.com/lfcfoundry/fancy-banana) ([play](https://lfcfoundry.github.io/fancy-banana/play/)), [Pineapple Defense](https://github.com/lfcfoundry/pineapple-defense) ([play](https://lfcfoundry.github.io/pineapple-defense/play/)) and the [Story Editor](https://github.com/lfcfoundry/story-editor) ([open](https://lfcfoundry.github.io/story-editor/play/)).
 
