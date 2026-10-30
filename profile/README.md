@@ -14,13 +14,15 @@
 
 LFC Foundry is a home for open source web apps, games and the small JavaScript pieces they are built from. Each app or game is a single `.html` file that runs entirely in the browser: download it once and open it, with no server, account or install. The pieces are one dependency-free file each that any single-file page can copy in. Every one is built and tested by a person pairing with AI.
 
+None of the apps or games need an install, administrative privileges or any special computing knowledge. The JS-modules pieces are for more seasoned users and developers.
+
 ## Why it exists
 
 Software for the web has drifted toward accounts, tracking, ads and dependencies that stop working when a server goes away. We wanted a place where a useful tool or a good game is one file you can keep forever, and where the parts behind it are shared in the open.
 
-| Safe | Offline | Open | Tested in three browsers |
-|---|---|---|---|
-| No accounts, no tracking, no ads. Nothing is sent anywhere. | Download a file once and it runs without a network. | MIT licensed. Use, change and share everything. | Firefox, Chromium and WebKitGTK. |
+| Easy | Safe | Offline | Open | Tested in three browsers |
+|---|---|---|---|---|
+| No install, no administrative privileges, no special knowledge. | No accounts, no tracking, no ads. Nothing is sent anywhere. | Download a file once and it runs without a network. | MIT licensed. Use, change and share everything. | Firefox, Chromium and WebKitGTK. |
 
 ## By the numbers
 
