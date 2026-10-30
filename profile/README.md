@@ -28,7 +28,7 @@ Software for the web has drifted toward accounts, tracking, ads and dependencies
 |---|---|---|---|
 | **4**, one file each | **49**, each with a README and a size | **10** | **0** |
 
-Approximate size of each app's one file: Pineapple Defense 2.53 MB, Apple Press 0.74 MB, Fancy, the Banana 0.50 MB, Story Editor 0.30 MB.
+Size of each app's one file on the main branch: Pineapple Defense 2.54 MB, Apple Press 0.74 MB, Fancy, the Banana 0.50 MB, Story Editor 0.30 MB.
 
 ## 🧰 What's inside
 
