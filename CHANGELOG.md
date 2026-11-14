@@ -2,6 +2,9 @@
 
 What changed on the organization page (github.com/lfcfoundry), newest first, in plain words.
 
+## 2026-11-14 (later)
+- The "What is new" section now names LFC-pack 0.10.32 instead of 0.10.25.
+
 ## 2026-11-14
 - The LFCP Workbench entry now has real numbers: a 300 MB, 7-million-row file imports faster and is saved 58% smaller, sorts by a number column 3 to 5 times faster than before, and a 100 MB file passed on an Android phone. It says plainly that DuckDB-WASM is still faster at sorting.
 - A new "What is new" section covers LFC-pack 0.10.25, the new zstd-kit module, Netflow Map's Sift choice and Credits button, the Thumb Circuit story campaign, the LFCP Workbench, and the new credits pages.
