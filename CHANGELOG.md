@@ -2,6 +2,9 @@
 
 What changed on the organization page (github.com/lfcfoundry), newest first, in plain words.
 
+## 2026-11-14 (evening)
+- The "What is new" section now names LFC-pack 0.10.35, and the Netflow Map entry adds the faster nested views (first picture and view switching on a 50,000-item map, with Chromium 156 and Firefox 158 numbers).
+
 ## 2026-11-14 (later)
 - The "What is new" section now names LFC-pack 0.10.32 instead of 0.10.25.
 
