@@ -2,6 +2,17 @@
 
 What changed, newest first, for developers, in three depths: Quick, Details and Deep. Users read CHANGELOG.md.
 
+## 2026-11-14 · organization page refresh
+
+### Quick
+The profile README gains a "What is new" section, two apps in the lists and links, and the 53-item module list.
+
+### Details
+Numbers come from each repository's own page: LFC-pack and zstd-kit from the JS-modules READMEs (cloud Chromium 156, Firefox 158, WebKitGTK 2.52.6), Sift from the Netflow Map changelog, Thumb Circuit 7.78 from its README, file sizes from the main branches. All 75 github.com links were opened in Chromium and returned 200. The github.io play links could not be opened from the build sandbox (blocked), so they rely on the repositories' own README links. The Workbench line says only what its README says; typed decimals, the top-N sort and the one-of filter are left out until the Workbench repository documents them.
+
+### Deep
+No new images: the four app cards and the banner are unchanged, so Thumb Circuit and Netflow Map are listed as text for now. The trademark notice still names the owner's GitHub handle; left as it was, flagged for the owner.
+
 ## 2026-10-30 · PR 12 (picture banner and app cards)
 
 ### Quick
