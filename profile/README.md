@@ -45,7 +45,7 @@ Software for the web has drifted toward accounts, tracking, ads and dependencies
 - Story Editor packages: **10**
 - Accounts, trackers or ads: **0**
 
-Size of each app's one file on the main branch: Pineapple Defense 2.54 MB, Netflow Map 2.22 MB, Apple Press 0.74 MB, Thumb Circuit 0.67 MB, Fancy, the Banana 0.50 MB, Story Editor 0.30 MB.
+Size of each app's one file on the main branch: Pineapple Defense 2.75 MB, Netflow Map 2.22 MB, Apple Press 0.75 MB, Thumb Circuit 0.67 MB, Fancy, the Banana 0.50 MB, Story Editor 0.32 MB.
 
 ## 🧰 What's inside
 

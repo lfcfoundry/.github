@@ -2,6 +2,9 @@
 
 What changed on the organization page (github.com/lfcfoundry), newest first, in plain words.
 
+## 2026-11-20
+- The app file sizes are re-measured on the main branch: Pineapple Defense 2.75 MB, Apple Press 0.75 MB and Story Editor 0.32 MB (they had grown since the last check).
+
 ## 2026-11-19
 - The new lz4-kit module is on the page (in the main branch, not yet released), with its speed against the browser's gzip and other LZ4 libraries, and its larger output. The page now counts 54 modules and tools.
 
