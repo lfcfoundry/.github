@@ -2,6 +2,9 @@
 
 What changed on the organization page (github.com/lfcfoundry), newest first, in plain words.
 
+## 2026-11-21
+- The new guess-gate module is on the page, which now counts 55 modules and tools, and the LFC-pack entry names 0.15.0 (its numbers are still the ones measured at 0.12.3).
+
 ## 2026-11-20
 - The new netflow-chord module (a 1.6 KB chord layout) is on the page, which now counts 54 modules and tools.
 - The LFC-pack entry now names version 0.14.7 and the newer Parquet numbers (files 0.5 to 0.7 the size of Parquet at zstd level 3; row reads about 2 to 6 times faster than the Parquet readers), and the lz4-kit entry names 1.1.2.
