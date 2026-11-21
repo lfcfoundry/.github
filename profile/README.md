@@ -8,7 +8,7 @@
 
 [**Play Apple Press**](https://lfcfoundry.github.io/apple-press/play/) · [**Play Fancy, the Banana**](https://lfcfoundry.github.io/fancy-banana/play/) · [**Play Pineapple Defense**](https://lfcfoundry.github.io/pineapple-defense/play/) · [**Play Thumb Circuit**](https://lfcfoundry.github.io/thumb-circuit/play/) · [**Open Netflow Map**](https://lfcfoundry.github.io/netflow-map/play/) · [**Open the Story Editor**](https://lfcfoundry.github.io/story-editor/play/) · [**Browse JS-modules**](https://lfcfoundry.github.io/JS-modules/)
 
-![6 apps and games](https://img.shields.io/badge/apps%20and%20games-6-1f7ae0) ![54 modules and tools](https://img.shields.io/badge/modules%20and%20tools-54-1f7ae0) ![0 accounts](https://img.shields.io/badge/accounts-0-1e9e6a) ![MIT](https://img.shields.io/badge/license-MIT-blue)
+![6 apps and games](https://img.shields.io/badge/apps%20and%20games-6-1f7ae0) ![53 modules and tools](https://img.shields.io/badge/modules%20and%20tools-53-1f7ae0) ![0 accounts](https://img.shields.io/badge/accounts-0-1e9e6a) ![MIT](https://img.shields.io/badge/license-MIT-blue)
 
 </div>
 
@@ -41,7 +41,7 @@ Software for the web has drifted toward accounts, tracking, ads and dependencies
 ## By the numbers
 
 - Apps and games: **6**, one file each (the Workbench is still in development)
-- Modules and tools: **54**, each with a README and a size
+- Modules and tools: **53**, each with a README and a size
 - Story Editor packages: **10**
 - Accounts, trackers or ads: **0**
 
@@ -58,12 +58,12 @@ Size of each app's one file on the main branch: Pineapple Defense 2.75 MB, Netfl
 
 **[JS-modules](https://github.com/lfcfoundry/JS-modules)** are small, dependency-free pieces that any single-file page can copy in, with live demos at https://lfcfoundry.github.io/JS-modules/. Every one has a README, a changelog and a size; the [full tables](https://github.com/lfcfoundry/JS-modules#pick-a-piece) list the file size of each.
 
-**Modules & Tools (54)**
+**Modules & Tools (53)**
 
 * Device and browser adaptation: [env-probes](https://github.com/lfcfoundry/JS-modules/blob/main/modules/env-probes/README.md), [field-report](https://github.com/lfcfoundry/JS-modules/blob/main/modules/field-report/README.md), [frame-kit](https://github.com/lfcfoundry/JS-modules/blob/main/modules/frame-kit/README.md), [fx-governor](https://github.com/lfcfoundry/JS-modules/blob/main/modules/fx-governor/README.md), [image-decode](https://github.com/lfcfoundry/JS-modules/blob/main/modules/image-decode/README.md), [slow-note](https://github.com/lfcfoundry/JS-modules/blob/main/modules/slow-note/README.md)
 * Saving and data safety: [save-kit](https://github.com/lfcfoundry/JS-modules/blob/main/modules/save-kit/README.md), [tab-guard](https://github.com/lfcfoundry/JS-modules/blob/main/modules/tab-guard/README.md)
 * Games * Looks and effects: [cartoon-3d-kit](https://github.com/lfcfoundry/JS-modules/blob/main/modules/cartoon-3d-kit/README.md), [fly-to-mini](https://github.com/lfcfoundry/JS-modules/blob/main/modules/fly-to-mini/README.md), [gpu-blur](https://github.com/lfcfoundry/JS-modules/blob/main/modules/gpu-blur/README.md), [sprite-baker](https://github.com/lfcfoundry/JS-modules/blob/main/modules/sprite-baker/README.md), [stage-curtains](https://github.com/lfcfoundry/JS-modules/blob/main/modules/stage-curtains/README.md), [sticker-text](https://github.com/lfcfoundry/JS-modules/blob/main/modules/sticker-text/README.md)
-* Games * Controls: [back-close](https://github.com/lfcfoundry/JS-modules/blob/main/modules/back-close/README.md), [hold-press](https://github.com/lfcfoundry/JS-modules/blob/main/modules/hold-press/README.md), [pad-nav](https://github.com/lfcfoundry/JS-modules/blob/main/modules/pad-nav/README.md), [wake-keeper](https://github.com/lfcfoundry/JS-modules/blob/main/modules/wake-keeper/README.md)
+* Games * Controls: [back-close](https://github.com/lfcfoundry/JS-modules/blob/main/modules/back-close/README.md), [hold-press](https://github.com/lfcfoundry/JS-modules/blob/main/modules/hold-press/README.md), [pad-nav](https://github.com/lfcfoundry/JS-modules/blob/main/modules/pad-nav/README.md)
 * Games * Assist: [grown-ups-door](https://github.com/lfcfoundry/JS-modules/blob/main/modules/grown-ups-door/README.md), [spotlight-tour](https://github.com/lfcfoundry/JS-modules/blob/main/modules/spotlight-tour/README.md)
 * Games * Math: [idle-core](https://github.com/lfcfoundry/JS-modules/blob/main/modules/idle-core/README.md)
 * Games * Testing: [canvas-probe](https://github.com/lfcfoundry/JS-modules/blob/main/tools/canvas-probe/README.md), [firefox-stand-in](https://github.com/lfcfoundry/JS-modules/blob/main/tools/firefox-stand-in/README.md), [fuzz-kit](https://github.com/lfcfoundry/JS-modules/blob/main/tools/fuzz-kit/README.md), [speed-guard](https://github.com/lfcfoundry/JS-modules/blob/main/tools/speed-guard/README.md), [speed-lab](https://github.com/lfcfoundry/JS-modules/blob/main/tools/speed-lab/README.md), [storage-probe](https://github.com/lfcfoundry/JS-modules/blob/main/tools/storage-probe/README.md), [test-isolation](https://github.com/lfcfoundry/JS-modules/blob/main/tools/test-isolation/README.md), [test-runner](https://github.com/lfcfoundry/JS-modules/blob/main/tools/test-runner/README.md), [webkit-driver](https://github.com/lfcfoundry/JS-modules/blob/main/tools/webkit-driver/README.md)
