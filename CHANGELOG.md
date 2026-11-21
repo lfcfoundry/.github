@@ -3,6 +3,7 @@
 What changed on the organization page (github.com/lfcfoundry), newest first, in plain words.
 
 ## 2026-11-20
+- The LFC-pack entry now names version 0.14.7 and the newer Parquet numbers (files 0.5 to 0.7 the size of Parquet at zstd level 3; row reads about 2 to 6 times faster than the Parquet readers), and the lz4-kit entry names 1.1.2.
 - The lz4-kit entry now has the 1.1.1 numbers: faster than every other LZ4 library tested at compressing and decompressing, not just a tie.
 - The wake-keeper module is removed from the page, which now counts 53 modules and tools.
 - The app file sizes are re-measured on the main branch: Pineapple Defense 2.75 MB, Apple Press 0.75 MB and Story Editor 0.32 MB (they had grown since the last check).
