@@ -2,6 +2,9 @@
 
 What changed on the organization page (github.com/lfcfoundry), newest first, in plain words.
 
+## 2026-11-22
+- The LFC-pack entry now names 0.24.0 (its numbers are still the ones measured at 0.12.3).
+
 ## 2026-11-21
 - The new guess-gate module is on the page, which now counts 55 modules and tools, and the LFC-pack entry names 0.15.0 (its numbers are still the ones measured at 0.12.3).
 
