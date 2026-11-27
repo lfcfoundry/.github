@@ -5,6 +5,9 @@ What changed on the organization page (github.com/lfcfoundry), newest first, in 
 ## 2026-11-22
 - The LFC-pack entry now names 0.24.0 (its numbers are still the ones measured at 0.12.3).
 
+## 2026-11-27
+- The LFC-pack entry now names 0.26.0 (its numbers are still the ones measured at 0.12.3).
+
 ## 2026-11-26
 - The LFC-pack entry now names 0.24.1 and the lz4-kit entry names 1.1.3 (their numbers are still the ones measured at 0.12.3 and 1.1.2).
 
