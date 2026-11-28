@@ -5,6 +5,9 @@ What changed on the organization page (github.com/lfcfoundry), newest first, in 
 ## 2026-11-22
 - The LFC-pack entry now names 0.24.0 (its numbers are still the ones measured at 0.12.3).
 
+## 2026-11-27 (evening)
+- The new core-plan module (picks a safe helper-worker count) is on the page, which now counts 56 modules and tools, and the LFC-pack entry names 0.26.5 (its numbers are still the ones measured at 0.12.3).
+
 ## 2026-11-27
 - The LFC-pack entry now names 0.26.0 (its numbers are still the ones measured at 0.12.3).
 
